@@ -1,1 +1,1 @@
-Data for "Information Transfer Based Methods to Identify Influential Nodes in Dynamical Systems".
+Data for "Propagation-Time Centrality for Identifying Influential Nodes in Networked Dynamical Systems".
